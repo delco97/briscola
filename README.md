@@ -32,10 +32,6 @@ If the game fails to run due to missing libraries, you can install them by follo
 4. Click the "Install" button next to the library.
 5. The library will be installed and you can now run the game.
 
-## How to Play
-
-The player controls the snake using the arrow keys on their keyboard. The objective is to catch apples that appear on the screen, possibly preferring to catch them in the right color order to get more points.
-
 ## Contributing
 
 This project was created just for fun and experimenting with Processing, but if you want to contribute to it, feel free to fork the repository and make your changes. You can then submit a pull request with your changes for review.
